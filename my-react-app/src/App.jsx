@@ -1,6 +1,6 @@
-import Counter from './counter.jsx'
+import Colorpick from './Colorpick'
 
 function App() {
-  return(<Counter/>);
+  return(<Colorpick/>);
 }
 export default App
