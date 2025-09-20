@@ -1,6 +1,6 @@
-import Arrayuse from "./Arrayuse";
+import ListObject from "./ListObject";
 
 function App() {
-  return(<Arrayuse/>);
+  return(<ListObject/>);
 }
 export default App
