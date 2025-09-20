@@ -1,6 +1,6 @@
-import Colorpick from './Colorpick'
+import Arrayuse from "./Arrayuse";
 
 function App() {
-  return(<Colorpick/>);
+  return(<Arrayuse/>);
 }
 export default App
